@@ -6,7 +6,7 @@ package heranca;
 
 /**
  *
- * @author Amanda
+ * @author Agatha
  */
 public class Main {
     public static void main(String[] args) {
